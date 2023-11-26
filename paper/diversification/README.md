@@ -1,5 +1,6 @@
 # ChronoCiphers
 This is a guideline on paper's results
+![comparison with prior art](https://github.com/nopespace/ChronoCiphers/assets/55406346/05b44b1a-b176-4982-affe-79a422b201f4)
 
 ## Diversification
 - qin-diversifying-top-k-results: definition for traditional diversification
