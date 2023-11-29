@@ -18,6 +18,7 @@ This is a guideline on paper's results
     - two kinds of definitions for diversification:
         - largest subset that the min distance is >= d
         - fixed size of subset that maximize the min distance
+- tamir-obnoxious-facility-location: GMM greedy algorithm.
 
 ## Fair-Diversification
 - mcgregor-max-min-metric: gives 2 approx and 6 approx result
