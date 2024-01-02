@@ -13,12 +13,12 @@ This is a guideline on paper's results
     - 2-approx for max-min, 4-approx for max-avg(under triangle inequality)
     - less than two is NP-hard, negative result
     - polynomial time alg for 1-dimensional max-avg dispersion problem, and an asymptotic pi/2-approx heuristic for 2-dimensional max-avg
+    - GMM greedy algorithm.
 - wang-two-geometric-location: (everything in this paper is m=1)
     - gives the dp algorithm for the Eclidean spece m=1, dimension=1, some others even with dimension = 2 is NP-hard.
     - two kinds of definitions for diversification:
         - largest subset that the min distance is >= d
         - fixed size of subset that maximize the min distance
-- tamir-obnoxious-facility-location: GMM greedy algorithm.
 
 ## Fair-Diversification
 - mcgregor-max-min-metric: gives 2 approx and 6 approx result
